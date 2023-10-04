@@ -1,0 +1,12 @@
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\bin\Debug\bt_tuan5.exe.config
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.Form1.resources
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\bin\Debug\bt_tuan5.exe
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\bin\Debug\bt_tuan5.pdb
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.exe
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.pdb
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.Form2.resources
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.Form3.resources
+E:\LuuDuLieuSinhVien\ThanhHung\tuan5\bt_tuan5\obj\Debug\bt_tuan5.Form1_trenlop.resources
